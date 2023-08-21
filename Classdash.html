@@ -32,7 +32,7 @@
       </div>
     </div>
   </div>
-  <button onclick="acount()"> Generate your account Number</button>
+  <button onclick="account()"> Generate your account Number</button>
   <div id="alertmsg" class=""></div>
 
     <table id="display" class="table table-striped">
@@ -53,7 +53,7 @@
             var ollData = JSON.parse(localStorage.getItem(user))
             var account = ollData
         }
-        function acount(){
+        function account(){
             var account = []
             var rand  = "22" + Math.round(Math.random()*10000000)
             disp.innerHTML = `<h1> Your account number is ${rand}</h1>`
