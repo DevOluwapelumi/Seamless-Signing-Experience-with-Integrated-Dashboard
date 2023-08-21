@@ -22,7 +22,7 @@ Our signing page boasts a user-friendly interface that caters to both tech-savvy
 Whether you need to sign a single document or manage a bundle of contracts, our platform has you covered. Our integrated dashboard allows you to efficiently organize and manage multiple documents in one place.
 
 5. Real-Time Status Tracking:
-Stay informed at every step of the signing process. The dashboard provides real-time updates on the status of each document, from sent to signed, ensuring you're always in the loop.
+Stay informed at every step of the signing process. The dashboard provides real-time updates on the status of each document, from sent to sign, ensuring you're always in the loop.
 
 6. Collaborative Workflow:
 Collaborate seamlessly with colleagues, partners, or clients. Our platform enables you to share documents for co-signing and track progress, promoting efficient collaboration even when parties are geographically dispersed.
